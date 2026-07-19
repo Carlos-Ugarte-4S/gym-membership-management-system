@@ -66,19 +66,19 @@ Modelo Vista Controlador (MVC)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](storage/screenshots/dashboard.png)
 
 ### Gestión de Clientes
 
-![Clientes](screenshots/clientes.png)
+![Clientes](storage/screenshots/clientes.png)
 
 ### Gestión de Membresías y Pagos
 
-![Membresías](screenshots/membresias_pago.png)
+![Membresías](storage/screenshots/membresias_pago.png)
 
 ### Gestión de Reportes
 
-![Reportes](screenshots/Reporte.png)
+![Reportes](storage/screenshots/Reporte.png)
 
 ---
 
