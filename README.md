@@ -74,11 +74,11 @@ Modelo Vista Controlador (MVC)
 
 ### Gestión de Membresías y Pagos
 
-![Membresías](storage/screenshots/membresias_pago.png)
+![Membresías](storage/screenshots/Membresia_pago.png)
 
 ### Gestión de Reportes
 
-![Reportes](storage/screenshots/Reporte.png)
+![Reportes](storage/screenshots/reportes.png)
 
 ---
 
