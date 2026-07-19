@@ -62,7 +62,7 @@ Modelo Vista Controlador (MVC)
 
 ### Inicio de sesión
 
-![Inicio de sesión](screenshots/IniciarSesion.png)
+![Inicio de sesión](storage/screenshots/IniciarSesion.png)
 
 ### Dashboard
 
